@@ -14,7 +14,7 @@
 ![Repository Size](https://img.shields.io/github/repo-size/lalrochhara/Teruati?style=for-the-badge&logo=appveyor)</br>
 
 
-[![Join Support!](https://img.shields.io/badge/Teruati%20Supports-red)](https://t.me/TeruatuSupports)
+[![Join Support!](https://img.shields.io/badge/Support%20chat-TeruatiSupports-red)](https://t.me/TeruatuSupports)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/cfb691a93a064d9ea753ef2b5fccf797)](https://www.codacy.com/manual/lalrochhara/Teruati?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=lalrochhara/Teruati&amp;utm_campaign=Badge_Grade)
 
 
