@@ -10,7 +10,7 @@ except ImportError:
 
 with window("About"):
     add_text("Teruati telegram bot")
-    add_text("Maintained with <3 by Dank-del (github.com/Dank-del)")
+    add_text("Maintained with <3 by Nicky Lalrochhara (github.com/lalrochhara)")
     add_text("Enviroment:")
     add_text(f"Bot lib: python-telegram-bot v{pver}.", bullet=True)
     add_text(f"Python version: {python_version()}.", bullet=True)
